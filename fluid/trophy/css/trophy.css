@@ -1,8 +1,6 @@
 .trophy {
   width: 32%;
-}
-
-.trophy:nth-child(3n+2) {
-  margin-left: 2%;
-  margin-right: 2%;
+  min-width: 1024px;
+  margin-left: 34%;
+  margin-right: 34%;
 }
